@@ -4,6 +4,9 @@
     <ClCompile Include="E:\GameEngineFromScratch\GameEngineFromScratch\Framework\Common\BaseApplication.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="E:\GameEngineFromScratch\GameEngineFromScratch\Framework\Common\GraphicsManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="E:\GameEngineFromScratch\GameEngineFromScratch\Framework\Common\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
