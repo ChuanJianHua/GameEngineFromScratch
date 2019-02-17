@@ -262,6 +262,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="E:\GameEngineFromScratch\GameEngineFromScratch\Framework\Common\BaseApplication.cpp" />
+    <ClCompile Include="E:\GameEngineFromScratch\GameEngineFromScratch\Framework\Common\GraphicsManager.cpp" />
     <ClCompile Include="E:\GameEngineFromScratch\GameEngineFromScratch\Framework\Common\main.cpp" />
   </ItemGroup>
   <ItemGroup>
